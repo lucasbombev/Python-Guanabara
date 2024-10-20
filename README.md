@@ -7,4 +7,4 @@ Também estou aprendendo a usar Git e Github pelo https://dio.me
 ## Mundo 1
 ## Mundo 2
 ### Condições Aninhadas
-- [EX36: Aprova Emprestimo](/ex036_aprova_emprestimo.py)
+- [EX36: Aprova Emprestimo](Mundo_2/Condicoes_aninhadas/ex036_aprova_emprestimo.py)

@@ -9,6 +9,8 @@ Também estou aprendendo a usar Git e Github pelo https://dio.me
 - [EX002: Respondendo Usuário](/Mundo_1/ex002_respondendo_usuario.py)
 - [EX003: Somando números](/Mundo_1/ex003_somando_numeros.py)
 - [EX004: Dissecando variável](/Mundo_1/ex004_dissecando_variável.py)
+- [EX005: Antecessor e sucessor](/Mundo_1/ex005_antecessor_sucessor.py)
+
 ## Mundo 2
 ### Condições Aninhadas
 - [EX36: Aprova Emprestimo](Mundo_2/Condicoes_aninhadas/ex036_aprova_emprestimo.py)

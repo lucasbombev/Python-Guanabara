@@ -10,7 +10,8 @@ Também estou aprendendo a usar Git e Github pelo https://dio.me
 - [EX003: Somando números](/Mundo_1/ex003_somando_numeros.py)
 - [EX004: Dissecando variável](/Mundo_1/ex004_dissecando_variável.py)
 - [EX005: Antecessor e sucessor](/Mundo_1/ex005_antecessor_sucessor.py)
-
+- [EX006: Dobro, triplo, raiz](/Mundo_1/ex006_dobro_triplo_raiz.py)
+- [EX007: Media aritimética](/Mundo_1/ex007_media.py)
 ## Mundo 2
 ### Condições Aninhadas
 - [EX36: Aprova Emprestimo](Mundo_2/Condicoes_aninhadas/ex036_aprova_emprestimo.py)

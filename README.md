@@ -12,7 +12,8 @@ Também estou aprendendo a usar Git e Github pelo https://dio.me
 - [EX005: Antecessor e sucessor](/Mundo_1/ex005_antecessor_sucessor.py)
 - [EX006: Dobro, triplo, raiz](/Mundo_1/ex006_dobro_triplo_raiz.py)
 - [EX007: Media aritimética](/Mundo_1/ex007_media.py)
-- [EX008: conversor de medidas](/Mundo_1/ex008_conversor_medidas.py)
+- [EX008: Conversor de medidas](/Mundo_1/ex008_conversor_medidas.py)
+- [EX009: tabuada](/Mundo_1/ex009_tabuada.py)
 ## Mundo 2
 ### Condições Aninhadas
 - [EX36: Aprova Emprestimo](Mundo_2/Condicoes_aninhadas/ex036_aprova_emprestimo.py)

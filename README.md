@@ -14,6 +14,7 @@ Também estou aprendendo a usar Git e Github pelo https://dio.me
 - [EX007: Media aritimética](/Mundo_1/ex007_media.py)
 - [EX008: Conversor de medidas](/Mundo_1/ex008_conversor_medidas.py)
 - [EX009: tabuada](/Mundo_1/ex009_tabuada.py)
+- [EX010: Conversor de moedas](/Mundo_1/ex010_conversor_de_moedas.py)
 ## Mundo 2
 ### Condições Aninhadas
 - [EX36: Aprova Emprestimo](Mundo_2/Condicoes_aninhadas/ex036_aprova_emprestimo.py)

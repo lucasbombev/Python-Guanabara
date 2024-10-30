@@ -15,6 +15,7 @@ Também estou aprendendo a usar Git e Github pelo https://dio.me
 - [EX008: Conversor de medidas](/Mundo_1/ex008_conversor_medidas.py)
 - [EX009: tabuada](/Mundo_1/ex009_tabuada.py)
 - [EX010: Conversor de moedas](/Mundo_1/ex010_conversor_de_moedas.py)
+- [EX011: Pintando parede](/Mundo_1/ex011_pintando_parede.py)
 ## Mundo 2
 ### Condições Aninhadas
 - [EX36: Aprova Emprestimo](Mundo_2/Condicoes_aninhadas/ex036_aprova_emprestimo.py)

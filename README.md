@@ -27,3 +27,4 @@ Também estou aprendendo a usar Git e Github pelo https://dio.me
 - [EX37: Conversor de bases numéricas](/Mundo_2/Condicoes_aninhadas/ex037_Conversor_bases_numericas.py)
 - [EX38: Comparando números](/Mundo_2/ex038_comparando_numeros.py)
 - [EX39: Alistamento Militar](/Mundo_2/Condicoes_aninhadas/ex39_alistamento.py)
+- [EX040: Média Aritimética](/Mundo_2/Condicoes_aninhadas/ex040_media.py)

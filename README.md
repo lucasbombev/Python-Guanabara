@@ -18,6 +18,9 @@ Também estou aprendendo a usar Git e Github pelo https://dio.me
 - [EX011: Pintando parede](/Mundo_1/ex011_pintando_parede.py)
 - [EX012: Calculando Descontos](/Mundo_1/ex012_calculando_descontos.py)
 - [EX013: Reajuste Salarial](/Mundo_1/ex013_reajuste_salarial.py)
+- [EX014: Conversor de temperatura](/Mundo_1/ex014_conversor_de_temperaturas.py)
+- [EX015: Aluguel de carros](/Mundo_1/ex015_aluguel_carros.py)
+- [EX016: Quebrando numeros inteiros](/Mundo_1/ex016_quebrando_numero_inteiro.py)
 ## Mundo 2
 ### Condições Aninhadas
 - [EX36: Aprova Emprestimo](Mundo_2/Condicoes_aninhadas/ex036_aprova_emprestimo.py)

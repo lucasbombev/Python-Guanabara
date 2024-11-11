@@ -22,6 +22,7 @@ Também estou aprendendo a usar Git e Github pelo https://dio.me
 - [EX015: Aluguel de carros](/Mundo_1/ex015_aluguel_carros.py)
 - [EX016: Quebrando numeros inteiros](/Mundo_1/ex016_quebrando_numero_inteiro.py)
 - [EX017: Calculando Hipotenusa](/Mundo_1/ex017_hipotenusa.py)
+- [EX018: Seno, Cosseno e Tangente](/Mundo_1/ex018_sencostan.py)
 ## Mundo 2
 ### Condições Aninhadas
 - [EX36: Aprova Emprestimo](Mundo_2/Condicoes_aninhadas/ex036_aprova_emprestimo.py)

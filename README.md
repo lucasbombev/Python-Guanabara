@@ -24,6 +24,7 @@ Também estou aprendendo a usar Git e Github pelo https://dio.me
 - [EX017: Calculando Hipotenusa](/Mundo_1/ex017_hipotenusa.py)
 - [EX018: Seno, Cosseno e Tangente](/Mundo_1/ex018_sencostan.py)
 - [EX019: Sorteando item](/Mundo_1/ex019_sorteando_Item.py)
+- [EX020: Sorteando ordem de item](/Mundo_1/ex020_sorteando_ordem.py)
 ## Mundo 2
 ### Condições Aninhadas
 - [EX36: Aprova Emprestimo](Mundo_2/Condicoes_aninhadas/ex036_aprova_emprestimo.py)

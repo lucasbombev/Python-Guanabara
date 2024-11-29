@@ -11,4 +11,4 @@ if media >= 7:
 elif media >= 5 and media < 7:
     print("Aluno de RECUPERAÇÃO, estude que ainda da tempo!")
 else:
-    print("Aluno REPROVADO, é muito ser burro kkkkkkk")
+    print("Aluno REPROVADO, é muito ser burro kkkkkkklkj")

@@ -31,6 +31,8 @@ Também estou aprendendo a usar Git e Github pelo https://dio.me
 - [EX031: Preço de Viagem](/Mundo_1/ex031_custo_viagem.py)
 - [EX032: Bissexto](/Mundo_1/ex032_bissexto.py)
 - [EX033: Maior e Menor](/Mundo_1/ex033_maior_menor.py)
+- [EX034: Aumentos Multiplos](/Mundo_1/ex034_aumentos_multiplos.py)
+- [EX035: Analisador de Triângulo](/Mundo_1/ex035_analisando_triangulo1.0.py)
 ## Mundo 2
 ### Condições Aninhadas
 - [EX36: Aprova Emprestimo](Mundo_2/Condicoes_aninhadas/ex036_aprova_emprestimo.py)

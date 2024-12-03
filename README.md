@@ -28,6 +28,9 @@ Também estou aprendendo a usar Git e Github pelo https://dio.me
 - [EX028: Jogo da Adivinhação](/Mundo_1/ex028_adivinhacao.py)
 - [EX029: Radar Eletrônico](/Mundo_1/ex029_radar_eletronico.py)
 - [EX030: Par ou Impar](/Mundo_1/ex030_impar_par.py)
+- [EX031: Preço de Viagem](/Mundo_1/ex031_custo_viagem.py)
+- [EX032: Bissexto](/Mundo_1/ex032_bissexto.py)
+- [EX033: Maior e Menor](/Mundo_1/ex033_maior_menor.py)
 ## Mundo 2
 ### Condições Aninhadas
 - [EX36: Aprova Emprestimo](Mundo_2/Condicoes_aninhadas/ex036_aprova_emprestimo.py)

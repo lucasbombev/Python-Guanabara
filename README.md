@@ -25,6 +25,9 @@ Também estou aprendendo a usar Git e Github pelo https://dio.me
 - [EX018: Seno, Cosseno e Tangente](/Mundo_1/ex018_sencostan.py)
 - [EX019: Sorteando item](/Mundo_1/ex019_sorteando_Item.py)
 - [EX020: Sorteando ordem de item](/Mundo_1/ex020_sorteando_ordem.py)
+- [EX028: Jogo da Adivinhação](/Mundo_1/ex028_adivinhacao.py)
+- [EX029: Radar eletrônico](/Mundo_1/ex029_radar_eletronico.py)
+- [EX030: Par ou Impar](/Mundo_1/ex030_impar_par.py)
 ## Mundo 2
 ### Condições Aninhadas
 - [EX36: Aprova Emprestimo](Mundo_2/Condicoes_aninhadas/ex036_aprova_emprestimo.py)

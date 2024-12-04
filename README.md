@@ -1,7 +1,7 @@
 # Python-Guanabara
-exercícios resolvidos do curso de fundamentos de Python3, ministrado pelo prof. Gustavo Guanabara do Curso em Vídeo.
-Criei este repositório baseado em no repositório de https://github.com/ggteixeira
-Este repositório é também uma forma de treinar minhas habilidades de Git e GitHub, tecnologias que estou inicando os estudos.
+- exercícios resolvidos do curso de fundamentos de Python3, ministrado pelo prof. Gustavo Guanabara do Curso em Vídeo.
+- Criei este repositório baseado em no repositório de https://github.com/ggteixeira
+- Este repositório é também uma forma de treinar minhas habilidades de Git e GitHub, tecnologias que estou inicando os estudos.
 ## Mundo 1
 - [EX001: Deixando Tudo Pronto](/Mundo_1/ex001_deixando_tudo_pronto.py)
 - [EX002: Respondendo Usuário](/Mundo_1/ex002_respondendo_usuario.py)

@@ -32,4 +32,8 @@
 - [EX034: Aumentos Multiplos](/Mundo_1/ex034_aumentos_multiplos.py)
 - [EX035: Analisador de Triângulo](/Mundo_1/ex035_analisando_triangulo1.0.py)
 ## Mundo 2
+- [EX038: Comparando Números](/Mundo_2/ex038_comparando_numeros.py)
+- [EX039: Alistamento Militar](/Mundo_2/ex039_alistamento_militar.py)
+- [EX040: Aquele Clássico da Média](/Mundo_2/ex040_media.py)
+- [EX041: Classificando Atletas](/Mundo_2/ex041_classificando_atletas.py)
 ### Condições Aninhadas

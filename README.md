@@ -40,4 +40,5 @@
 - [EX042: Analisador de Triângulos 2.0](/Mundo_2/ex042_analisador_tringaulosv2.0.py)
 - [EX043: IMC](/Mundo_2/ex043_IMC.py)
 - [EX044: Gerenciador de Pagamentos](/Mundo_2/ex044_gerenciador_pagamentos.py)
+- [EX045: Pedra Papel ou Tesoura](/Mundo_2/ex045_pedra_papel_tesoura.py)
 

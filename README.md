@@ -36,4 +36,6 @@
 - [EX039: Alistamento Militar](/Mundo_2/ex039_alistamento_militar.py)
 - [EX040: Aquele Clássico da Média](/Mundo_2/ex040_media.py)
 - [EX041: Classificando Atletas](/Mundo_2/ex041_classificando_atletas.py)
+- [EX042: Analisador de Triângulos 2.0](/Mundo_2/ex042_analisador_tringaulosv2.0.py)
+- [EX043: IMC](/Mundo_2/ex043_IMC.py)
 ### Condições Aninhadas

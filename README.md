@@ -38,4 +38,5 @@
 - [EX041: Classificando Atletas](/Mundo_2/ex041_classificando_atletas.py)
 - [EX042: Analisador de Triângulos 2.0](/Mundo_2/ex042_analisador_tringaulosv2.0.py)
 - [EX043: IMC](/Mundo_2/ex043_IMC.py)
+- [EX044: Gerenciador de Pagamentos](/Mundo_2/ex044_gerenciador_pagamentos.py)
 ### Condições Aninhadas

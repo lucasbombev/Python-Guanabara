@@ -41,4 +41,9 @@
 - [EX043: IMC](/Mundo_2/ex043_IMC.py)
 - [EX044: Gerenciador de Pagamentos](/Mundo_2/ex044_gerenciador_pagamentos.py)
 - [EX045: Pedra Papel ou Tesoura](/Mundo_2/ex045_pedra_papel_tesoura.py)
--
+### Estrutura de Repetição FOR
+- [EX046: Contagem Regressiva](/Mundo_2/ex046_contagem_regressiva.py)
+- [EX047: Contagem de Pares](/Mundo_2/ex047_contagem_pares.py)
+- [EX048: Soma de Impares](/Mundo_2/ex048_soma_impares_multiplostres.py)
+- [EX049: Tabuada 2.0](/Mundo_2/ex049_Tabuada2.0.py)
+- [EX050: Soma dos Pares](/Mundo_2/ex050_soma_pares.py)

@@ -47,3 +47,6 @@
 - [EX048: Soma de Impares](/Mundo_2/ex048_soma_impares_multiplostres.py)
 - [EX049: Tabuada 2.0](/Mundo_2/ex049_Tabuada2.0.py)
 - [EX050: Soma dos Pares](/Mundo_2/ex050_soma_pares.py)
+- [EX051: Progressão Aritimética](/Mundo_2/ex051_progressão_aritimetica.py)
+- [EX052: Verificador de Números Primos](/Mundo_2/ex052_numeros_primos.py)
+- [EX054: Grupo da Maioridade](/Mundo_2/ex054_grupo_maioridade.py)

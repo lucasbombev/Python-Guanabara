@@ -31,6 +31,8 @@
 - [EX033: Maior e Menor](/Mundo_1/ex033_maior_menor.py)
 - [EX034: Aumentos Multiplos](/Mundo_1/ex034_aumentos_multiplos.py)
 - [EX035: Analisador de Triângulo](/Mundo_1/ex035_analisando_triangulo1.0.py)
+- [EX036: Aprovador de Emprestimo](/Mundo_1/ex036_aprova_emprestimo.py)
+- [EX037: Conversor de Bases Numéricas](/Mundo_1/ex037_conversor_bases_numericas.py)
 ## Mundo 2
 ### Condições Aninhadas
 - [EX038: Comparando Números](/Mundo_2/ex038_comparando_numeros.py)

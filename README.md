@@ -52,3 +52,4 @@
 - [EX051: Progressão Aritimética](/Mundo_2/ex051_progressão_aritimetica.py)
 - [EX052: Verificador de Números Primos](/Mundo_2/ex052_numeros_primos.py)
 - [EX054: Grupo da Maioridade](/Mundo_2/ex054_grupo_maioridade.py)
+### Estrutura de Repetição WHILE

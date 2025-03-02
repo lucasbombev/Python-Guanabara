@@ -53,3 +53,10 @@
 - [EX052: Verificador de Números Primos](/Mundo_2/ex052_numeros_primos.py)
 - [EX054: Grupo da Maioridade](/Mundo_2/ex054_grupo_maioridade.py)
 ### Estrutura de Repetição WHILE
+- [EX057: Validação de Dados](/Mundo_2/ex057_validacao_de_dados.py)
+- [EX058: Adivinhação 2.0](/Mundo_2/ex058_adivinacao_2.0.py)
+- [EX059: Menu de Opções](/Mundo_2/ex059_menu_de_opcoes.py)
+- [EX060: Calculo Fatorial](/Mundo_2/ex060_calculo_fatorial.py)
+- [EX061: Progressão Aritimética](/Mundo_2/ex061_progressao_aritimetica.py)
+- [EX062: Progressão Aritimética While](/Mundo_2/ex062_progressao_aritimetica.py)
+- [EX063: Fibonacci](/Mundo_2/ex063_FIbonacci.py)

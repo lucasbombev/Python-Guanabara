@@ -60,3 +60,5 @@
 - [EX061: Progressão Aritimética](/Mundo_2/ex061_progressao_aritimetica.py)
 - [EX062: Progressão Aritimética While](/Mundo_2/ex062_progressao_aritimetica.py)
 - [EX063: Fibonacci](/Mundo_2/ex063_FIbonacci.py)
+- [EX064: Tratando Valores](/Mundo_2/ex064_tratando_valores.py)
+- [EX065: Maior Menor](/Mundo_2/ex065_maior_menor.py)

@@ -62,3 +62,7 @@
 - [EX063: Fibonacci](/Mundo_2/ex063_FIbonacci.py)
 - [EX064: Tratando Valores](/Mundo_2/ex064_tratando_valores.py)
 - [EX065: Maior Menor](/Mundo_2/ex065_maior_menor.py)
+### Estruturas com BREAK
+- [EX066: Vários Números com Flags](/Mundo_2/ex066_numeros_flag.py)
+- [EX067: Tabuada 3.0](/Mundo_2/ex067_tabuada3.0.py)
+- [EX068: Par ou Impar](/Mundo_2/ex068_par_impar.py)

@@ -2,7 +2,7 @@
 - exercícios resolvidos do curso de fundamentos de Python3, ministrado pelo prof. Gustavo Guanabara do Curso em Vídeo.
 - Criei este repositório baseado em no repositório de https://github.com/ggteixeira
 - Este repositório é também uma forma de treinar minhas habilidades de Git e GitHub, tecnologias que estou inicando os estudos.
-## Mundo 1
+## Mundo 1 🌎️✅
 - [EX001: Deixando Tudo Pronto](/Mundo_1/ex001_deixando_tudo_pronto.py)
 - [EX002: Respondendo Usuário](/Mundo_1/ex002_respondendo_usuario.py)
 - [EX003: Somando Números](/Mundo_1/ex003_somando_numeros.py)
@@ -33,7 +33,7 @@
 - [EX035: Analisador de Triângulo](/Mundo_1/ex035_analisando_triangulo1.0.py)
 - [EX036: Aprovador de Emprestimo](/Mundo_1/ex036_aprova_emprestimo.py)
 - [EX037: Conversor de Bases Numéricas](/Mundo_1/ex037_conversor_bases_numericas.py)
-## Mundo 2
+## Mundo 2 🌎️✅
 ### Condições Aninhadas
 - [EX038: Comparando Números](/Mundo_2/ex038_comparando_numeros.py)
 - [EX039: Alistamento Militar](/Mundo_2/ex039_alistamento_militar.py)
@@ -66,3 +66,7 @@
 - [EX066: Vários Números com Flags](/Mundo_2/ex066_numeros_flag.py)
 - [EX067: Tabuada 3.0](/Mundo_2/ex067_tabuada3.0.py)
 - [EX068: Par ou Impar](/Mundo_2/ex068_par_impar.py)
+- [EX069: Analise de Grupo](/Mundo_2/ex069_analise_dados_grupo.py)
+- [EX070: Estatisticas de Produtos](/Mundo_2/ex070_estatisticas_produtos.py)
+- [EX071: Banco DEV](/Mundo_2/ex071_banco_dev.py)
+## Mundo 3 

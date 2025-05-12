@@ -70,3 +70,4 @@
 - [EX070: Estatisticas de Produtos](/Mundo_2/ex070_estatisticas_produtos.py)
 - [EX071: Banco DEV](/Mundo_2/ex071_banco_dev.py)
 ## Mundo 3 
+- [EX072: Número por Extenso](/Mundo_3/ex072_numero_por_extenso.py)

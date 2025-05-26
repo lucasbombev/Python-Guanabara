@@ -71,3 +71,4 @@
 - [EX071: Banco DEV](/Mundo_2/ex071_banco_dev.py)
 ## Mundo 3 
 - [EX072: Número por Extenso](/Mundo_3/ex072_numero_por_extenso.py)
+- [EX073: Times do Brasileirão](/Mundo_3/ex73_tuplas_times_futebol.py)

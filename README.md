@@ -72,3 +72,5 @@
 ## Mundo 3 
 - [EX072: Número por Extenso](/Mundo_3/ex072_numero_por_extenso.py)
 - [EX073: Times do Brasileirão](/Mundo_3/ex73_tuplas_times_futebol.py)
+- [EX075: Maior e Menor Valor Em Uma Tupla](/Mundo_3/ex074_maior_e_menor_sorteado.py)
+
